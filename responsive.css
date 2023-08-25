@@ -1,0 +1,29 @@
+/* Existing styles */
+
+/* Add a media query for screens smaller than 768px */
+@media (max-width: 800px) {
+    .container {
+      width: 90%;
+    }
+  
+    h1 {
+      font-size: 6rem;
+    }
+  
+    p {
+      font-size: 1.5rem;
+    }
+  
+    img {
+      width: 100%;
+    }
+    
+    .btn {
+      font-size: 12px;
+      height: 30px;
+      line-height: 18px;
+      padding: 8px 14px;
+    }
+ }
+  
+
